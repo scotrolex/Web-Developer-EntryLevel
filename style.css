@@ -56,6 +56,7 @@ fieldset{
 
 a{
     color: #b366ff;
+    text-decoration: none;
 }
 
 .simg{
@@ -71,4 +72,10 @@ footer{
     border:1px solid  #b366ff;
     padding-left: 10px;
     padding-right: 10px;
+}
+
+@media only screen and (max-width: 400px) {
+    .container {
+        width: 90%;
+    }
 }
