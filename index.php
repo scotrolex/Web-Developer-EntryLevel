@@ -2,7 +2,12 @@
 <html lang="en">
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="Web-Developer-EntryLevel">
+		<meta name="keywords" content="HTML, CSS, Nandom">
+		<meta name="author" content="Alfred Nandom Mamdam">
+		<meta http-equiv="refresh" content="30">
 		<meta charset="utf-8">
+
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<title>Web-Developer-EntryLevel</title>
 	</head>
