@@ -1,6 +1,7 @@
 body{
 	background-image: url('images/code.jpg');
     display:inline-block;
+    width: 100px;
 }
 
 .colors{
