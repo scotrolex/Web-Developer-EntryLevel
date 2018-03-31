@@ -9,7 +9,6 @@ body{
 }
 
 .fimg{
-	/*float: right;*/
 	border-radius: 40%;
 	border:1px solid  #b366ff;
     margin-top: 20px;
@@ -24,4 +23,52 @@ body{
     margin: auto;
     background: #333;
     color: white;
+}
+
+header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #262626;
+    border-radius: 30px;
+    border:1px solid  #b366ff;
+}
+
+.headDiv{
+	
+    padding: 20px 20px;
+    display: block;
+}
+
+.sub{
+    margin-top: 50px;
+}
+
+p{
+    text-align: justify;
+}
+
+fieldset{
+    border:1px solid  #b366ff;
+    border-radius: 5px;
+}
+
+a{
+    color: #b366ff;
+}
+
+.simg{
+    border-radius: 5px;
+    margin-left:5px;
+    margin-right: 5px;
+}
+
+footer{
+    display: block;
+    background-color: #262626;
+    border-radius: 30px;
+    border:1px solid  #b366ff;
+    padding-left: 10px;
+    padding-right: 10px;
 }
