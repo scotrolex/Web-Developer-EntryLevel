@@ -22,7 +22,7 @@
 					</div>
 					<div class="sub">
 						<hr style="color: purple;">
-		                <h1>I'm Alfred Nandom Mamdam <span class="for">and I am a </span> Favcoder</h1>
+		                <h1>I'm <a href="">Alfred Nandom Mamdam </a><span class="for">and I am a </span> 100 level student studying computer science in University of jos and also a Favcoder.</h1>
 		                <fieldset>
 		                	<legend>My mission</legend>
 							<p>
@@ -34,7 +34,7 @@
 		                <fieldset>
 		                	<legend>Why me</legend>
 			                <p>
-			                	Well, I won't say that i have all of the skills and experience that you’re looking for but I’m confident that I have the experience and skils to building small web project. I have learn the basic of HTML5 and CSS3 and At the same time, I have developed my communication skills from working directly with other web developers, which means I am well prepared to work on high-profile, cross-department projects.
+			                	Well, I won't say that i have all of the skills and experience that you’re looking for but I’m confident that I have the experience and skils to building small web project. I know the basic of HTML5, CSS3 and javascript and At the same time, I have developed my communication skills from working directly with other web developers, which means I am well prepared to work on high-profile, cross-department projects.
 			                </p>
 		                </fieldset>
 	                </div>
