@@ -3,7 +3,7 @@
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="Web-Developer-EntryLevel">
-		<meta name="keywords" content="HTML, CSS, Nandom">
+		<meta name="keywords" content="HTML, CSS">
 		<meta name="author" content="Alfred Nandom Mamdam">
 		<meta http-equiv="refresh" content="30">
 		<meta charset="utf-8">
@@ -27,11 +27,11 @@
 					</div>
 					<div class="sub">
 						<hr style="color: purple;">
-		                <h1>I'm <a href="">Alfred Nandom Mamdam </a><span class="for">and I am a </span> 100 level student studying computer science in University of jos and also a Favcoder.</h1>
+		                <h1>I'm <a href="https://twitter.com/FurtiveCoder">Alfred Nandom Mamdam </a><span class="for">and I am a </span> 100 level student studying computer science in University of jos and also a Favcoder.</h1>
 		                <fieldset>
 		                	<legend>My mission</legend>
 							<p>
-								Is to use my learned web-development skills to build stunning websites that will enabling people to profit from it and to work with others so i can learn more . I strive to deliver high-quality work.
+								Is to use my learned web-development skills to build stunning websites that will enable people to profit from it and to work with others so i can learn more . I strive to deliver high-quality work.
 							</p>
 						</fieldset>
 		                
@@ -39,7 +39,7 @@
 		                <fieldset>
 		                	<legend>Why me</legend>
 			                <p>
-			                	Well, I won't say that i have all of the skills and experience that you’re looking for but I’m confident that I have the experience and skils to building small web project. I know the basic of HTML5, CSS3 and javascript and At the same time, I have developed my communication skills from working directly with other web developers, which means I am well prepared to work on high-profile, cross-department projects.
+			                	Well, I won't say that i have all of the skills and experience that you’re looking for but I’m confident that I have the experience and skills to build small web project. I know the basic of HTML5, CSS3 and javascript and At the same time, I have developed my communication skills from working directly with other web developers, which means I am well prepared to work on high-profile, cross-department projects.
 			                </p>
 		                </fieldset>
 	                </div>
