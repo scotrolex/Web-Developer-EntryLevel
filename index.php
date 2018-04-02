@@ -45,7 +45,15 @@
 	                </div>
 					
 
-					<p class="meta">Here is my  LinkedIn Page <a href="https://www.linkedin.com/in/nandom-alfred-054600159" target="_blank" ><img class="simg" src="images/linkin.jpeg" width="30"></a> and my github account <a href="" target="_blank" ><img class="simg" src="images/git.png" width="30"></a>. </p>
+					<p class="meta">
+						Here is my  LinkedIn Page 
+						<a href="https://www.linkedin.com/in/nandom-alfred-054600159" target="_blank" >
+							<img class="simg" src="images/linkin.jpeg" width="30">
+						</a> and my github account
+						<a href="https://github.com/scotrolex" target="_blank" >
+							<img class="simg" src="images/git.png" width="30">
+						</a>.
+						</p>
 				</div>
 			</section>
 
